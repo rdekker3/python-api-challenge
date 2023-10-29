@@ -1,2 +1,2 @@
 # python-api-challenge
-Codind done by Ryan Dekker
+Coding done by Ryan Dekker
